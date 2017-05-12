@@ -1,0 +1,24 @@
+ocr reliability is higher when using a 
+monospaced font than a proportional 
+font since the separation of 
+proportional characters would be 
+harder and that is the reason why i 
+used this fort 
+
+this image is the input to the ocr 
+which will then be converted to a txt 
+file 
+
+here am testing all small letters from 
+a to z 
+abcdefghijklmropqrstuvwxyz 
+
+my ocr orly works for this fort of 
+size twerty ard numbers and capital 
+letters are not yet trained 
+
+thank you for reading all the way till 
+here and am sorry for not using commas 
+and periods since my neural net is not 
+trained on them yet 
+george saman 
