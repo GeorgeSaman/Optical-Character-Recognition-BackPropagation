@@ -8,3 +8,5 @@ Character Recognition using an ANN.
 - Samples folder contain all training samples for OCR-EXTENDED font.
 - Paragraphs contain the input document(IMAGE) to be recognized. To input your own document, change the documentLocation variable to your document name.
 - CharacterRecognition file contains a three layer neural network trained using Back Propagation.
+
+>For further read, take a look at the pdf file provided with the code.
